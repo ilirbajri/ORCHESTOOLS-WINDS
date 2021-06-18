@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASSON 1 SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="28" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_A#0_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.91053" LoopEnd="294254"
+          LoopStart="120422" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" Pan="-34" UpperVelocityXFade="0" MonolithOffset="0"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_A#1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.49257" LoopEnd="250000"
+          LoopStart="120583" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="401408"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="45" LoKey="43" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_A1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.38544" LoopEnd="273675"
+          LoopStart="122854" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="729088"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_A3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.76191" LoopEnd="260429"
+          LoopStart="107077" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="1130496"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="37" LoKey="29" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_C#1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.03696" LoopEnd="197329"
+          LoopStart="92498" LoopXFade="15000" SampleStartMod="100000" LoopEnabled="1"
+          UpperVelocityXFade="0" MonolithOffset="1560576" MonolithLength="274432"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_C2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.00244" LoopEnd="214129"
+          LoopStart="110938" LoopXFade="15000" SampleStartMod="91568" LoopEnabled="1"
+          UpperVelocityXFade="0" MonolithOffset="1835008" MonolithLength="282624"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_C3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.11335" Pan="-35"
+          LoopEnd="228849" LoopStart="126278" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="2117632"
+          MonolithLength="389120" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_C4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.42427" SampleStart="2474"
+          LoopEnd="324733" LoopStart="150000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="2506752"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="63" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_D#3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.55132" SampleStart="10051"
+          LoopEnd="231183" LoopStart="123967" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="3002368"
+          MonolithLength="385024" SampleRate="44100"/>
+  <sample Root="75" LoKey="74" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_D#4_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.67141" Pan="-23"
+          SampleStart="819" LoopEnd="250000" LoopStart="119667" LoopXFade="15000"
+          SampleStartMod="100000" LoopEnabled="1" MonolithOffset="3387392"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="41" LoKey="39" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_F1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.96711" LoopEnd="303662"
+          LoopStart="124325" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="3715072"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="68" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_G#3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.19565" LoopEnd="250000"
+          LoopStart="150000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="4153344"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="55" LoKey="53" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/sus/PSBassoon_G2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.5985" Pan="0"
+          SampleStart="3792" LoopEnd="213827" LoopStart="109995" LoopXFade="15000"
+          SampleStartMod="100000" LoopEnabled="1" UpperVelocityXFade="0"
+          MonolithOffset="4505600" MonolithLength="380928" SampleRate="44100"/>
+</samplemap>

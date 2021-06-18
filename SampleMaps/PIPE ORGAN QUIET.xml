@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PIPE ORGAN QUIET" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="45" LoKey="44" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_A1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.8315" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="0" MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_A2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.2076" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="512000" MonolithLength="548864" SampleRate="44100"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_A3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.5402" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1060864" MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_A4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.97275" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1597440" MonolithLength="544768" SampleRate="44100"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_A5_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.65844" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2142208" MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_C1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="49.7994" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2650112" MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_C2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.8378" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3162112" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_C3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.387" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3715072" MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_C4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.6025" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4251648" MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_C5_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.6031" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4788224" MonolithLength="544768" SampleRate="44100"/>
+  <sample Root="96" LoKey="95" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_C6_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="40.4044" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="5332992" MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="39" LoKey="38" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_D#1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.0308" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="5865472" MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="51" LoKey="50" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_D#2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.9959" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="6381568" MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_D#3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.144" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="6955008" MonolithLength="565248" SampleRate="44100"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_D#4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.8959" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="7520256" MonolithLength="540672" SampleRate="44100"/>
+  <sample Root="87" LoKey="86" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_D#5_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="27.2386" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="8060928" MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_F#1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="75.3287" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="8593408" MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="54" LoKey="53" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_F#2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.8351" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="9129984" MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_F#3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.8114" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="9666560" MonolithLength="544768" SampleRate="44100"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_F#4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.1494" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="10211328" MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="90" LoKey="89" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet/NT5_Man3Quiet_F#5_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.1067" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="10743808" MonolithLength="520192" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="FLUTE 1 ATTACK" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="67" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_A3_v3_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.25665" Pan="31"
+          LoopEnabled="1" LoopEnd="334632" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="45000" LowerVelocityXFade="0" MonolithOffset="0"
+          MonolithLength="462848" SampleRate="44100"/>
+  <sample Root="81" LoKey="79" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_A4_v3_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.97831" Pan="20"
+          LoopEnabled="1" LoopEnd="280041" LoopStart="128108" LoopXFade="15000"
+          SampleStartMod="45000" LowerVelocityXFade="0" MonolithOffset="462848"
+          MonolithLength="360448" SampleRate="44100"/>
+  <sample Root="93" LoKey="91" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_A5_v3_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.75782" Volume="5"
+          LoopEnabled="1" LoopEnd="268231" LoopStart="115207" LoopXFade="15000"
+          SampleStartMod="45000" LowerVelocityXFade="0" MonolithOffset="823296"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_C4_v3_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.74778" Pan="-5"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="136085" LoopXFade="15000"
+          SampleStartMod="45000" LowerVelocityXFade="0" MonolithOffset="1175552"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_C5_v2_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.7472" LoopEnabled="1"
+          LoopEnd="278805" LoopStart="115711" LoopXFade="15000" SampleStartMod="45000"
+          LowerVelocityXFade="0" MonolithOffset="1601536" MonolithLength="397312"
+          SampleRate="44100"/>
+  <sample Root="96" LoKey="95" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_C6_v1_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.73331" LoopEnabled="1"
+          LoopEnd="184576" LoopStart="96860" LoopXFade="15000" SampleStartMod="45000"
+          MonolithOffset="1998848" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="64" LoKey="0" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_E3_v3_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.2051" Pan="1"
+          LoopEnabled="1" LoopEnd="338218" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="45000" LowerVelocityXFade="0" MonolithOffset="2269184"
+          MonolithLength="471040" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_E4_v3_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.57459" Pan="15"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="129711" LoopXFade="15000"
+          SampleStartMod="45000" LowerVelocityXFade="0" MonolithOffset="2740224"
+          MonolithLength="409600" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_E5_v2_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.54603" LoopEnabled="1"
+          LoopEnd="245093" LoopStart="113222" LoopXFade="15000" SampleStartMod="45000"
+          LowerVelocityXFade="0" MonolithOffset="3149824" MonolithLength="356352"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="0" HiKey="69" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_A3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.9239" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3506176"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="81" LoKey="78" HiKey="81" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_A4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.14867" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3547136"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="93" LoKey="91" HiKey="93" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_A5_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.41004" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3584000"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="74" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_C4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.1036" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3633152"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="86" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_C5_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.40071" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3670016"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="127" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_C6_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.08812" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3702784"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="77" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_E4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.3524" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3743744"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="90" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/stac/LDFlute_stac_E5_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.00601" SampleStartMod="8000"
+          LowerVelocityXFade="111" UpperVelocityXFade="0" Volume="0" MonolithOffset="3784704"
+          MonolithLength="36864" SampleRate="44100"/>
+</samplemap>

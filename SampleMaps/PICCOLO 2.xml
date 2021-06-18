@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PICCOLO 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="84" LoKey="77" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_C6_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.51907" SampleStartMod="15000"
+          LoopEnabled="1" LoopEnd="452451" LoopStart="112939" LoopXFade="15000"
+          Pan="30" MonolithOffset="0" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="79" LoKey="0" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_G5_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.85891" SampleStartMod="15000"
+          LoopEnabled="1" LoopStart="76185" SampleStart="3137" LoopEnd="308976"
+          LoopXFade="15000" Pan="46" MonolithOffset="552960" MonolithLength="376832"
+          SampleRate="44100"/>
+  <sample Root="91" LoKey="85" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_G6_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.86977" SampleStartMod="15000"
+          LoopEnabled="1" LoopEnd="273765" LoopStart="62280" LoopXFade="15000"
+          MonolithOffset="929792" MonolithLength="360448" SampleRate="44100"/>
+</samplemap>

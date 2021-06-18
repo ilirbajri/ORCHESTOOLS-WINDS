@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PIPE ORGAN FULL" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="46" LoKey="45" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_A#1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.76594" LoopEnd="190314"
+          LoopStart="77597" LoopXFade="2500" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="0" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="58" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_A#2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.68141" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="266240" MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="70" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_A#3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.77477" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="512000" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="82" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_A#4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.27188" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="765952" MonolithLength="237568" SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_C1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.75113" LoopEnd="196360"
+          LoopStart="92005" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1003520" MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_C2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.70588" LoopEnd="176941"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1249280" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_C3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.33165" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1519616" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_C4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.26239" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1773568" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_C5_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.61631" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2027520" MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_D1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.25557" LoopEnd="238164"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2285568" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_D2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.01383" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2641920" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_D3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.33781" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2912256" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_D4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.61973" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3182592" MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="86" LoKey="85" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_D5_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.3081" LoopEnd="167586"
+          LoopStart="80000" LoopXFade="5000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3424256" MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_E1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.10174" LoopEnd="175140"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3665920" MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="52" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_E2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.41116" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3940352" MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="64" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_E3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.94406" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4214784" MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_E4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.20553" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4472832" MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_F#1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.11804" LoopEnd="192378"
+          LoopStart="84467" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4714496" MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="54" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_F#2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.11033" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4988928" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_F#3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.33942" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="5259264" MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_F#4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.69032" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="5517312" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="44" LoKey="43" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_G#1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.32958" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="5771264" MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_G#2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.94432" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="6057984" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="68" LoKey="67" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_G#3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.38305" LoopEnd="180000"
+          LoopStart="80000" LoopXFade="2000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="6328320" MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Renaissance Organ/Full/RenOrgan_Full_Room_G#4_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.16715" LoopEnd="200427"
+          LoopStart="86928" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="6586368" MonolithLength="262144" SampleRate="44100"/>
+</samplemap>

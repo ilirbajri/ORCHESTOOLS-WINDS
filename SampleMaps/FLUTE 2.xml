@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="FLUTE 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="66" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_A3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.97931" LoopEnabled="1"
+          LoopStart="123194" LoopXFade="15000" SampleStartMod="90000" LoopEnd="253923"
+          Pan="20" MonolithOffset="0" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="81" LoKey="79" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_A4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.79259" LoopEnabled="1"
+          LoopStart="104887" LoopXFade="15000" SampleStartMod="90000" LoopEnd="223191"
+          MonolithOffset="356352" MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="93" LoKey="91" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_A5_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.75873" LoopEnabled="1"
+          LoopStart="95792" LoopXFade="15000" SampleStartMod="90000" LoopEnd="174805"
+          MonolithOffset="684032" MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="60" LoKey="0" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_C3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.459" LoopEnabled="1"
+          LoopStart="128064" LoopXFade="15000" SampleStartMod="90000" LoopEnd="265307"
+          MonolithOffset="929792" MonolithLength="348160" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_C4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.78912" LoopEnabled="1"
+          LoopStart="130832" LoopXFade="15000" SampleStartMod="90000" LoopEnd="242312"
+          MonolithOffset="1277952" MonolithLength="335872" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_C5_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.27549" LoopEnabled="1"
+          LoopStart="106294" LoopXFade="15000" SampleStartMod="90000" LoopEnd="226331"
+          MonolithOffset="1613824" MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="96" LoKey="95" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_C6_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.41617" LoopEnabled="1"
+          SampleEnd="209911" LoopStart="81485" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnd="152686" MonolithOffset="1937408" MonolithLength="212992"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_E3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.4889" LoopEnabled="1"
+          LoopStart="141360" LoopXFade="15000" SampleStartMod="90000" LoopEnd="292105"
+          Pan="25" MonolithOffset="2150400" MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_E4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.95559" LoopEnabled="1"
+          LoopStart="113577" LoopXFade="15000" SampleStartMod="90000" LoopEnd="242868"
+          MonolithOffset="2617344" MonolithLength="360448" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susvib/LDFlute_susvib_E5_v1_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.78782" LoopEnabled="1"
+          LoopStart="102324" LoopXFade="15000" SampleStartMod="90000" LoopEnd="205816"
+          MonolithOffset="2977792" MonolithLength="311296" SampleRate="44100"/>
+</samplemap>

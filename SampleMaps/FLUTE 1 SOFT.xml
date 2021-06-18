@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="FLUTE 1 SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="67" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_A3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="27.396" Pan="-14"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="117830" UpperVelocityXFade="0" MonolithOffset="0"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="81" LoKey="79" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_A4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.55009" Pan="25"
+          LoopEnabled="1" LoopEnd="408615" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="115194" UpperVelocityXFade="0" MonolithOffset="454656"
+          MonolithLength="577536" SampleRate="44100"/>
+  <sample Root="93" LoKey="91" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_A5_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.97037" Pan="-30"
+          LoopEnabled="1" LoopEnd="332873" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="120825" UpperVelocityXFade="0" MonolithOffset="1032192"
+          MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="60" LoKey="0" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_C3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="106.626" LoopEnabled="1"
+          LoopEnd="300000" LoopStart="150000" LoopXFade="15000" SampleStartMod="116160"
+          UpperVelocityXFade="0" MonolithOffset="1515520" MonolithLength="442368"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_C4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.0252" LoopEnabled="1"
+          LoopEnd="308266" LoopStart="150000" LoopXFade="15000" SampleStartMod="116240"
+          UpperVelocityXFade="0" MonolithOffset="1957888" MonolithLength="454656"
+          SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_C5_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.53239" LoopEnabled="1"
+          LoopEnd="300000" LoopStart="144459" LoopXFade="15000" SampleStartMod="114211"
+          UpperVelocityXFade="0" MonolithOffset="2412544" MonolithLength="417792"
+          SampleRate="44100"/>
+  <sample Root="96" LoKey="95" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_C6_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.73331" LoopEnabled="1"
+          LoopEnd="184576" LoopStart="96860" LoopXFade="15000" SampleStartMod="59606"
+          MonolithOffset="2830336" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="64" LoKey="63" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_E3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="77.39" Pan="17"
+          LoopEnabled="1" LoopEnd="306840" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="114914" UpperVelocityXFade="0" MonolithOffset="3100672"
+          MonolithLength="479232" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_E4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.2579" Pan="40"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="116078" UpperVelocityXFade="0" MonolithOffset="3579904"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/susNV/LDFlute_susNV_E5_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.11741" Pan="-20"
+          LoopEnabled="1" LoopEnd="355282" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="118221" UpperVelocityXFade="0" MonolithOffset="4014080"
+          MonolithLength="495616" SampleRate="44100"/>
+</samplemap>

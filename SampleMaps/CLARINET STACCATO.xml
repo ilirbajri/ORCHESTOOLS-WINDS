@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CLARINET STACCATO" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="56" HiKey="60" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#2_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.8619" UpperVelocityXFade="40"
+          MonolithOffset="0" MonolithLength="28672" SampleRate="44100"
+          SampleStart="2125" SampleStartMod="5000"/>
+  <sample Root="58" LoKey="56" HiKey="60" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#2_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.0684" UpperVelocityXFade="40"
+          MonolithOffset="28672" MonolithLength="28672" SampleRate="44100"
+          SampleStart="1837" SampleStartMod="5000"/>
+  <sample Root="58" LoKey="56" HiKey="60" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#2_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.88262" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="57344" MonolithLength="28672"
+          SampleRate="44100" SampleStart="1440" SampleStartMod="5000"/>
+  <sample Root="58" LoKey="56" HiKey="60" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#2_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.33561" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="86016" MonolithLength="28672"
+          SampleRate="44100" SampleStart="2089" SampleStartMod="5000"/>
+  <sample Root="58" LoKey="56" HiKey="60" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#2_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.99436" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="114688" MonolithLength="28672"
+          SampleRate="44100" SampleStart="504" SampleStartMod="5000"/>
+  <sample Root="58" LoKey="56" HiKey="60" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#2_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.51743" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="143360" MonolithLength="28672"
+          SampleRate="44100" SampleStart="756" SampleStartMod="5000"/>
+  <sample Root="70" LoKey="68" HiKey="72" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#3_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.5161" UpperVelocityXFade="40"
+          MonolithOffset="172032" MonolithLength="24576" SampleRate="44100"
+          SampleStart="1327" SampleStartMod="5000"/>
+  <sample Root="70" LoKey="68" HiKey="72" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#3_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.1914" UpperVelocityXFade="40"
+          MonolithOffset="196608" MonolithLength="28672" SampleRate="44100"
+          SampleStart="1116" SampleStartMod="5000"/>
+  <sample Root="70" LoKey="68" HiKey="72" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#3_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.03845" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="225280" MonolithLength="32768"
+          SampleRate="44100" SampleStart="1523" SampleStartMod="5000"/>
+  <sample Root="70" LoKey="68" HiKey="72" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#3_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.18235" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="258048" MonolithLength="24576"
+          SampleRate="44100" SampleStart="864" SampleStartMod="5000"/>
+  <sample Root="70" LoKey="68" HiKey="72" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#3_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.91064" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="282624" MonolithLength="28672"
+          SampleRate="44100" SampleStart="468" SampleStartMod="5000"/>
+  <sample Root="70" LoKey="68" HiKey="72" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#3_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.56561" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="311296" MonolithLength="32768"
+          SampleRate="44100" SampleStart="370" SampleStartMod="5000"/>
+  <sample Root="82" LoKey="80" HiKey="84" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#4_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.5329" UpperVelocityXFade="40"
+          MonolithOffset="344064" MonolithLength="28672" SampleRate="44100"
+          SampleStart="828" SampleStartMod="5000"/>
+  <sample Root="82" LoKey="80" HiKey="84" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#4_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.06141" UpperVelocityXFade="40"
+          MonolithOffset="372736" MonolithLength="28672" SampleRate="44100"
+          SampleStart="864" SampleStartMod="5000"/>
+  <sample Root="82" LoKey="80" HiKey="84" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#4_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.65714" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="401408" MonolithLength="28672"
+          SampleRate="44100" SampleStart="180" SampleStartMod="5000"/>
+  <sample Root="82" LoKey="80" HiKey="84" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#4_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.81068" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="430080" MonolithLength="28672"
+          SampleRate="44100" SampleStart="216" SampleStartMod="5000"/>
+  <sample Root="82" LoKey="80" HiKey="84" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#4_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.83904" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="458752" MonolithLength="28672"
+          SampleRate="44100" SampleStart="72" SampleStartMod="5000"/>
+  <sample Root="82" LoKey="80" HiKey="84" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_A#4_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.72155" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="487424" MonolithLength="32768"
+          SampleRate="44100" SampleStart="82" SampleStartMod="5000"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="0" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D2_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.82239" UpperVelocityXFade="40"
+          MonolithOffset="520192" MonolithLength="24576" SampleRate="44100"
+          SampleStart="1481" SampleStartMod="5000"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="0" HiVel="70" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D2_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.64048" UpperVelocityXFade="40"
+          MonolithOffset="544768" MonolithLength="24576" SampleRate="44100"
+          SampleStart="1389" SampleStartMod="5000"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D2_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.49154" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="569344" MonolithLength="28672"
+          SampleRate="44100" SampleStart="1260" SampleStartMod="5000"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D2_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.69383" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="598016" MonolithLength="24576"
+          SampleRate="44100" SampleStart="648" SampleStartMod="5000"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D2_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.46056" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="622592" MonolithLength="28672"
+          SampleRate="44100" SampleStart="576" SampleStartMod="5000"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D2_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.68387" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="651264" MonolithLength="28672"
+          SampleRate="44100" SampleStart="828" SampleStartMod="5000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D3_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.8936" UpperVelocityXFade="40"
+          MonolithOffset="679936" MonolithLength="24576" SampleRate="44100"
+          SampleStart="1574" SampleStartMod="5000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D3_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.5218" UpperVelocityXFade="40"
+          MonolithOffset="704512" MonolithLength="24576" SampleRate="44100"
+          SampleStart="1883" SampleStartMod="5000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D3_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.44138" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="729088" MonolithLength="28672"
+          SampleRate="44100" SampleStart="1080" SampleStartMod="5000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D3_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.03462" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="757760" MonolithLength="28672"
+          SampleRate="44100" SampleStart="1224" SampleStartMod="5000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D3_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.10744" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="786432" MonolithLength="32768"
+          SampleRate="44100" SampleStart="699" SampleStartMod="5000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D3_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.64251" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="819200" MonolithLength="28672"
+          SampleRate="44100" SampleStart="540" SampleStartMod="5000"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D4_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.8755" UpperVelocityXFade="40"
+          MonolithOffset="847872" MonolithLength="32768" SampleRate="44100"
+          SampleStart="1070" SampleStartMod="5000"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D4_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.4895" UpperVelocityXFade="40"
+          MonolithOffset="880640" MonolithLength="32768" SampleRate="44100"
+          SampleStart="1564" SampleStartMod="5000"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D4_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.88548" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="913408" MonolithLength="32768"
+          SampleRate="44100" SampleStart="1276" SampleStartMod="5000"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D4_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.26334" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="946176" MonolithLength="28672"
+          SampleRate="44100" SampleStart="900" SampleStartMod="5000"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D4_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.74784" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="974848" MonolithLength="28672"
+          SampleRate="44100" SampleStart="540" SampleStartMod="5000"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D4_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.38764" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1003520" MonolithLength="32768"
+          SampleRate="44100" SampleStart="740" SampleStartMod="5000"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D5_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.94605" UpperVelocityXFade="40"
+          MonolithOffset="1036288" MonolithLength="28672" SampleRate="44100"
+          SampleStart="432" SampleStartMod="5000"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="0" HiVel="99" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D5_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.60563" UpperVelocityXFade="40"
+          MonolithOffset="1064960" MonolithLength="28672" SampleRate="44100"
+          SampleStart="540" SampleStartMod="5000"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D5_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.268" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1093632" MonolithLength="24576"
+          SampleRate="44100" SampleStart="154" SampleStartMod="5000"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_D5_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.34879" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1118208" MonolithLength="28672"
+          SampleRate="44100" SampleStart="288" SampleStartMod="5000"/>
+  <sample Root="53" LoKey="52" HiKey="55" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F2_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.5187" UpperVelocityXFade="40"
+          MonolithOffset="1146880" MonolithLength="20480" SampleRate="44100"
+          SampleStart="1620" SampleStartMod="5000"/>
+  <sample Root="53" LoKey="52" HiKey="55" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F2_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.3779" UpperVelocityXFade="40"
+          MonolithOffset="1167360" MonolithLength="20480" SampleRate="44100"
+          SampleStart="1543" SampleStartMod="5000"/>
+  <sample Root="53" LoKey="52" HiKey="55" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F2_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.85666" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="1187840" MonolithLength="24576"
+          SampleRate="44100" SampleStart="1358" SampleStartMod="5000"/>
+  <sample Root="53" LoKey="52" HiKey="55" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F2_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.73131" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="1212416" MonolithLength="24576"
+          SampleRate="44100" SampleStart="926" SampleStartMod="5000"/>
+  <sample Root="53" LoKey="52" HiKey="55" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F2_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.59563" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1236992" MonolithLength="24576"
+          SampleRate="44100" SampleStart="1018" SampleStartMod="5000"/>
+  <sample Root="53" LoKey="52" HiKey="55" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F2_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.4311" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1261568" MonolithLength="24576"
+          SampleRate="44100" SampleStart="740" SampleStartMod="5000"/>
+  <sample Root="65" LoKey="64" HiKey="67" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F3_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.0312" UpperVelocityXFade="40"
+          MonolithOffset="1286144" MonolithLength="24576" SampleRate="44100"
+          SampleStart="2161" SampleStartMod="5000"/>
+  <sample Root="65" LoKey="64" HiKey="67" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F3_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.1737" UpperVelocityXFade="40"
+          MonolithOffset="1310720" MonolithLength="24576" SampleRate="44100"
+          SampleStart="2037" SampleStartMod="5000"/>
+  <sample Root="65" LoKey="64" HiKey="67" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F3_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.15124" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="1335296" MonolithLength="28672"
+          SampleRate="44100" SampleStart="1620" SampleStartMod="5000"/>
+  <sample Root="65" LoKey="64" HiKey="67" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F3_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.32499" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="1363968" MonolithLength="24576"
+          SampleRate="44100" SampleStart="2068" SampleStartMod="5000"/>
+  <sample Root="65" LoKey="64" HiKey="67" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F3_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.34639" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1388544" MonolithLength="24576"
+          SampleRate="44100" SampleStart="463" SampleStartMod="5000"/>
+  <sample Root="65" LoKey="64" HiKey="67" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F3_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.96419" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1413120" MonolithLength="24576"
+          SampleRate="44100" SampleStart="617" SampleStartMod="5000"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="0" HiVel="67" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F4_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.86988" UpperVelocityXFade="40"
+          MonolithOffset="1437696" MonolithLength="32768" SampleRate="44100"
+          SampleStart="823" SampleStartMod="5000"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="0" HiVel="67" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F4_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.88261" UpperVelocityXFade="40"
+          MonolithOffset="1470464" MonolithLength="28672" SampleRate="44100"
+          SampleStart="1224" SampleStartMod="5000"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="30" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F4_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.15168" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="1499136" MonolithLength="28672"
+          SampleRate="44100" SampleStart="828" SampleStartMod="5000"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="30" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F4_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.90793" LowerVelocityXFade="40"
+          UpperVelocityXFade="30" MonolithOffset="1527808" MonolithLength="32768"
+          SampleRate="44100" SampleStart="1111" SampleStartMod="5000"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F4_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.07458" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1560576" MonolithLength="28672"
+          SampleRate="44100" SampleStart="252" SampleStartMod="5000"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F4_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.70144" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1589248" MonolithLength="28672"
+          SampleRate="44100" SampleStart="396" SampleStartMod="5000"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="0" HiVel="69" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F5_v1_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.99025" UpperVelocityXFade="40"
+          MonolithOffset="1617920" MonolithLength="28672" SampleRate="44100"
+          SampleStart="540" SampleStartMod="5000"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="0" HiVel="69" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F5_v1_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.63454" UpperVelocityXFade="40"
+          MonolithOffset="1646592" MonolithLength="28672" SampleRate="44100"
+          SampleStart="684" SampleStartMod="5000"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="30" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F5_v2_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.84111" LowerVelocityXFade="40"
+          UpperVelocityXFade="40" MonolithOffset="1675264" MonolithLength="28672"
+          SampleRate="44100" SampleStart="648" SampleStartMod="5000"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="30" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F5_v2_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.80787" LowerVelocityXFade="40"
+          UpperVelocityXFade="40" MonolithOffset="1703936" MonolithLength="36864"
+          SampleRate="44100" SampleStart="602" SampleStartMod="5000"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F5_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.2854" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1740800" MonolithLength="32768"
+          SampleRate="44100" SampleStart="452" SampleStartMod="5000"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Clarinet/stac/DCClar_stac_F5_v3_rr2_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.27508" Volume="2"
+          LowerVelocityXFade="40" MonolithOffset="1773568" MonolithLength="32768"
+          SampleRate="44100" SampleStartMod="5000"/>
+</samplemap>

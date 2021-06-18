@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PIPE ORGAN PEDAL QUIET" RRGroupAmount="1" MicPositions=";"
+           SaveMode="2">
+  <sample Root="45" LoKey="44" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_A1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.50355" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="0" MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_A2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.9027" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="516096" MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.66038" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1048576" MonolithLength="540672" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.7029" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="1589248" MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_C3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.62579" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2125824" MonolithLength="540672" SampleRate="44100"/>
+  <sample Root="39" LoKey="38" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.807" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="2666496" MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="51" LoKey="50" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.2527" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3198976" MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_D#3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.27893" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="3735552" MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.9058" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4263936" MonolithLength="524288" SampleRate="44100"/>
+  <sample Root="54" LoKey="53" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.2027" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="4788224" MonolithLength="524288" SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Quiet Pedal/NT5_PedalQuiet_F#3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.0588" LoopEnd="400000"
+          LoopStart="100000" LoopXFade="30000" SampleStartMod="40000" LoopEnabled="1"
+          MonolithOffset="5312512" MonolithLength="528384" SampleRate="44100"/>
+</samplemap>

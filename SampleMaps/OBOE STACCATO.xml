@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="OBOE STACCATO" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#2_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.99024" SampleStartMod="6000"
+          SampleStart="1188" UpperVelocityXFade="40" MonolithOffset="0"
+          MonolithLength="45056" SampleRate="44100" Volume="-4"/>
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#2_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.4746" SampleStartMod="6000"
+          SampleStart="2469" UpperVelocityXFade="40" MonolithOffset="45056"
+          MonolithLength="40960" SampleRate="44100" Volume="-4"/>
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#2_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.42149" SampleStartMod="6000"
+          SampleStart="1018" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="86016" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#2_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.5706" SampleStartMod="6000"
+          SampleStart="720" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="131072" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="66" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#2_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.0086" SampleStartMod="6000"
+          SampleStart="1245" LowerVelocityXFade="40" MonolithOffset="172032"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="66" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#2_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.4581" SampleStartMod="6000"
+          SampleStart="1955" LowerVelocityXFade="40" MonolithOffset="217088"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#3_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.5636" SampleStartMod="6000"
+          SampleStart="283" UpperVelocityXFade="40" MonolithOffset="258048"
+          MonolithLength="45056" SampleRate="44100" Volume="-4"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#3_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.0856" SampleStartMod="6000"
+          SampleStart="411" UpperVelocityXFade="40" MonolithOffset="303104"
+          MonolithLength="40960" SampleRate="44100" Volume="-4"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#3_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.70468" SampleStartMod="6000"
+          SampleStart="329" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="344064" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#3_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.07491" SampleStartMod="6000"
+          SampleStart="82" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="376832" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="66" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#3_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.583" SampleStartMod="6000"
+          SampleStart="416" LowerVelocityXFade="40" MonolithOffset="409600"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="66" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#3_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1167" SampleStartMod="6000"
+          SampleStart="56" LowerVelocityXFade="40" MonolithOffset="446464"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="83" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#4_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.1658" SampleStartMod="6000"
+          SampleStart="493" UpperVelocityXFade="40" MonolithOffset="491520"
+          MonolithLength="32768" SampleRate="44100" Volume="-4"/>
+  <sample Root="82" LoKey="79" HiKey="83" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#4_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.7782" SampleStartMod="6000"
+          SampleStart="493" UpperVelocityXFade="40" MonolithOffset="524288"
+          MonolithLength="24576" SampleRate="44100" Volume="-4"/>
+  <sample Root="82" LoKey="79" HiKey="83" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#4_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.36772" SampleStartMod="6000"
+          SampleStart="92" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="548864" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="85" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#4_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.20449" SampleStartMod="6000"
+          SampleStart="0" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="585728" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="83" LoVel="66" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#4_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0274" SampleStartMod="6000"
+          SampleStart="246" LowerVelocityXFade="40" MonolithOffset="618496"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="85" LoVel="66" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#4_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.5452" SampleStartMod="6000"
+          SampleStart="0" LowerVelocityXFade="40" MonolithOffset="651264"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D3_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.5644" SampleStartMod="6000"
+          SampleStart="396" UpperVelocityXFade="40" MonolithOffset="684032"
+          MonolithLength="45056" SampleRate="44100" Volume="-4"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D3_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.608" SampleStartMod="6000"
+          SampleStart="792" UpperVelocityXFade="40" MonolithOffset="729088"
+          MonolithLength="45056" SampleRate="44100" Volume="-4"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D3_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.5596" SampleStartMod="6000"
+          SampleStart="452" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="774144" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D3_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.8789" SampleStartMod="6000"
+          SampleStart="622" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="819200" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="66" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D3_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.6761" SampleStartMod="6000"
+          SampleStart="622" LowerVelocityXFade="40" MonolithOffset="864256"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="66" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D3_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.6704" SampleStartMod="6000"
+          SampleStart="396" LowerVelocityXFade="40" MonolithOffset="909312"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D4_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.7246" SampleStartMod="6000"
+          SampleStart="1440" UpperVelocityXFade="40" MonolithOffset="954368"
+          MonolithLength="32768" SampleRate="44100" Volume="-4"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D4_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.7312" SampleStartMod="6000"
+          SampleStart="987" UpperVelocityXFade="40" MonolithOffset="987136"
+          MonolithLength="32768" SampleRate="44100" Volume="-4"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D4_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.44051" SampleStartMod="6000"
+          SampleStart="463" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1019904" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D4_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.2412" SampleStartMod="6000"
+          SampleStart="288" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1056768" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="66" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D4_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.9776" SampleStartMod="6000"
+          SampleStart="1157" LowerVelocityXFade="40" MonolithOffset="1089536"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="66" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D4_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.4814" SampleStartMod="6000"
+          SampleStart="658" LowerVelocityXFade="40" MonolithOffset="1126400"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="86" LoKey="84" HiKey="87" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D5_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1669" SampleStartMod="6000"
+          SampleStart="555" UpperVelocityXFade="40" MonolithOffset="1159168"
+          MonolithLength="24576" SampleRate="44100" Volume="-4"/>
+  <sample Root="86" LoKey="84" HiKey="87" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D5_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.3663" SampleStartMod="6000"
+          SampleStart="792" UpperVelocityXFade="40" MonolithOffset="1183744"
+          MonolithLength="28672" SampleRate="44100" Volume="-4"/>
+  <sample Root="86" LoKey="84" HiKey="87" LoVel="23" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D5_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.58343" SampleStartMod="6000"
+          SampleStart="370" LowerVelocityXFade="40" MonolithOffset="1212416"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F3_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.83521" SampleStartMod="6000"
+          SampleStart="905" UpperVelocityXFade="40" MonolithOffset="1245184"
+          MonolithLength="45056" SampleRate="44100" Volume="-4"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F3_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.20651" SampleStartMod="6000"
+          SampleStart="679" UpperVelocityXFade="40" MonolithOffset="1290240"
+          MonolithLength="45056" SampleRate="44100" Volume="-4"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F3_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.50417" SampleStartMod="6000"
+          SampleStart="370" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1335296" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F3_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.95674" SampleStartMod="6000"
+          SampleStart="0" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1372160" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="66" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F3_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.28502" SampleStartMod="6000"
+          SampleStart="622" LowerVelocityXFade="40" MonolithOffset="1409024"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="66" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F3_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.31886" SampleStartMod="6000"
+          SampleStart="138" LowerVelocityXFade="40" MonolithOffset="1454080"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F4_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.3141" SampleStartMod="6000"
+          SampleStart="617" UpperVelocityXFade="40" MonolithOffset="1490944"
+          MonolithLength="32768" SampleRate="44100" Volume="-4"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F4_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.83361" SampleStartMod="6000"
+          SampleStart="617" UpperVelocityXFade="40" MonolithOffset="1523712"
+          MonolithLength="32768" SampleRate="44100" Volume="-4"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F4_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.85596" SampleStartMod="6000"
+          SampleStart="370" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1556480" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F4_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.15574" SampleStartMod="6000"
+          SampleStart="205" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1589248" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="66" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F4_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.59926" SampleStartMod="6000"
+          SampleStart="411" LowerVelocityXFade="40" MonolithOffset="1622016"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="66" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F4_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.281" SampleStartMod="6000"
+          SampleStart="123" LowerVelocityXFade="40" MonolithOffset="1654784"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F5_v1_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.362" SampleStartMod="6000"
+          SampleStart="648" UpperVelocityXFade="40" MonolithOffset="1687552"
+          MonolithLength="28672" SampleRate="44100" Volume="-4"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F5_v1_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.86101" SampleStartMod="6000"
+          SampleStart="699" UpperVelocityXFade="40" MonolithOffset="1716224"
+          MonolithLength="32768" SampleRate="44100" Volume="-4"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="24" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F5_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.64616" SampleStartMod="6000"
+          SampleStart="720" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1748992" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="89" LoKey="86" HiKey="127" LoVel="24" HiVel="104" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F5_v2_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.80823" SampleStartMod="6000"
+          SampleStart="360" LowerVelocityXFade="40" UpperVelocityXFade="40"
+          MonolithOffset="1777664" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="65" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F5_v3_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.311" SampleStartMod="6000"
+          SampleStart="828" LowerVelocityXFade="40" MonolithOffset="1806336"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="89" LoKey="86" HiKey="127" LoVel="65" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F5_v3_rr2_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.88022" SampleStartMod="6000"
+          SampleStart="0" LowerVelocityXFade="40" MonolithOffset="1835008"
+          MonolithLength="28672" SampleRate="44100"/>
+</samplemap>

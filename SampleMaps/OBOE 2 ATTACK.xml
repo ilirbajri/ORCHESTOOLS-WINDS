@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="OBOE 2 ATTACK" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_A#2_v3_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.0022" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="0" MonolithLength="405504"
+          SampleRate="44100"/>
+  <sample Root="70" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_A#3_v3_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.39851" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="215655" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="405504" MonolithLength="319488"
+          SampleRate="44100"/>
+  <sample Root="82" LoKey="80" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_A#4_v3_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.8837" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="724992" MonolithLength="307200"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_D3_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="10.5806" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="1032192" MonolithLength="307200"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_D4_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="6.8797" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="1339392" MonolithLength="323584"
+          SampleRate="44100"/>
+  <sample Root="86" LoKey="84" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_D5_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="8.21459" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="1662976" MonolithLength="339968"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_F3_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="7.35698" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="2002944" MonolithLength="294912"
+          SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_F4_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="5.03658" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="2297856" MonolithLength="323584"
+          SampleRate="44100"/>
+  <sample Root="89" LoKey="88" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Vib/Oboe_Vib_F5_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="7.0047" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="250000" LoopStart="100000" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="2621440" MonolithLength="307200"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="0" HiKey="59" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#2_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.42149" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="2928640" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#3_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.70468" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="2973696" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="86" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_A#4_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.36772" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="3006464" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D3_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.5596" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="3043328" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_D4_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.44051" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="3088384" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F3_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.50417" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="3125248" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F4_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.85596" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="3162112" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="89" LoKey="87" HiKey="127" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Stacc/Oboe_Stacc_F5_v2_rr1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.64616" SampleStartMod="8000"
+          SampleStart="0" LowerVelocityXFade="117" UpperVelocityXFade="0"
+          MonolithOffset="3194880" MonolithLength="28672" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="FLUTE TREMOLO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="68" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_A3_v1_1.wav"
+          Duplicate="0" LoopEnd="200000" LoopStart="80000" LoopXFade="15000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="11.3989" SampleStartMod="50000"
+          MonolithOffset="0" MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="81" LoKey="80" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_A4_v1_1.wav"
+          Duplicate="0" LoopEnd="200000" LoopStart="80000" LoopXFade="15000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="6.2523" SampleStartMod="50000"
+          MonolithOffset="245760" MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_C4_v1_1.wav"
+          Duplicate="0" LoopEnd="200000" LoopStart="80000" LoopXFade="15000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="10.7985" SampleStartMod="50000"
+          MonolithOffset="487424" MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_C5_v1_1.wav"
+          Duplicate="0" LoopEnd="166951" LoopStart="80000" LoopXFade="15000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="4.2468" SampleStartMod="50000"
+          MonolithOffset="757760" MonolithLength="221184" SampleRate="44100"/>
+  <sample Root="64" LoKey="0" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_E3_v1_1.wav"
+          Duplicate="0" LoopEnd="200000" LoopStart="80000" LoopXFade="15000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="14.6434" SampleStartMod="50000"
+          MonolithOffset="978944" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_E4_v1_1.wav"
+          Duplicate="0" LoopEnd="200000" LoopStart="80000" LoopXFade="15000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="9.55462" SampleStartMod="50000"
+          MonolithOffset="1232896" MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_G3_v1_1.wav"
+          Duplicate="0" LoopEnd="200000" LoopStart="80000" LoopXFade="15000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="17.5674" SampleStartMod="50000"
+          MonolithOffset="1552384" MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Flute/LDFlute_trillW_G4_v1_1.wav"
+          Duplicate="0" LoopEnd="150326" LoopStart="85979" LoopXFade="5000"
+          LoopEnabled="1" Normalized="1" NormalizedPeak="7.49948" SampleStartMod="50000"
+          MonolithOffset="1814528" MonolithLength="221184" SampleRate="44100"/>
+</samplemap>

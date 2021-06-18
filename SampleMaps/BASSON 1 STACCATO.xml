@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASSON 1 STACCATO" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A#0_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.56717" Normalized="1" MonolithOffset="0"
+          MonolithLength="32768" SampleRate="44100" SampleStart="905" SampleStartMod="5000"/>
+  <sample Root="34" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A#0_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.68718" MonolithOffset="32768"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="617"/>
+  <sample Root="45" LoKey="43" HiKey="46" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A1_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="4.22486" Normalized="1" MonolithOffset="65536"
+          MonolithLength="28672" SampleRate="44100" SampleStart="1080"
+          SampleStartMod="5000"/>
+  <sample Root="45" LoKey="43" HiKey="46" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.41262" MonolithOffset="94208"
+          MonolithLength="28672" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="468"/>
+  <sample Root="45" LoKey="43" HiKey="46" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A1_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="2.63854" Normalized="1" MonolithOffset="122880"
+          MonolithLength="32768" SampleRate="44100" SampleStart="370" SampleStartMod="5000"/>
+  <sample Root="45" LoKey="43" HiKey="46" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.89649" MonolithOffset="155648"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="535"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A2_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="4.08731" Normalized="1" MonolithOffset="188416"
+          MonolithLength="28672" SampleRate="44100" SampleStart="252" SampleStartMod="5000"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.59023" MonolithOffset="217088"
+          MonolithLength="24576" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="586"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A2_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.08695" Normalized="1" MonolithOffset="241664"
+          MonolithLength="36864" SampleRate="44100" SampleStart="324" SampleStartMod="5000"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_A2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.49966" MonolithOffset="278528"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="329"/>
+  <sample Root="48" LoKey="47" HiKey="50" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C2_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="5.84204" Normalized="1" MonolithOffset="311296"
+          MonolithLength="32768" SampleRate="44100" SampleStart="823" SampleStartMod="5000"/>
+  <sample Root="48" LoKey="47" HiKey="50" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.28462" MonolithOffset="344064"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="905"/>
+  <sample Root="48" LoKey="47" HiKey="49" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C2_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.3512" Normalized="1" MonolithOffset="376832"
+          MonolithLength="32768" SampleRate="44100" SampleStart="329" SampleStartMod="5000"/>
+  <sample Root="48" LoKey="47" HiKey="49" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.30923" MonolithOffset="409600"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="329"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C3_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.82491" Normalized="1" MonolithOffset="442368"
+          MonolithLength="32768" SampleRate="44100" SampleStart="1605"
+          SampleStartMod="5000"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.05367" MonolithOffset="475136"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="2017"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C3_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="2.26831" Normalized="1" MonolithOffset="507904"
+          MonolithLength="32768" SampleRate="44100" SampleStart="905" SampleStartMod="5000"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.96192" MonolithOffset="540672"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="329"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C4_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="4.44794" Normalized="1" MonolithOffset="573440"
+          MonolithLength="32768" SampleRate="44100" SampleStart="2469"
+          SampleStartMod="5000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C4_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.07795" MonolithOffset="606208"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="2799"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C4_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.25726" Normalized="1" MonolithOffset="638976"
+          MonolithLength="32768" SampleRate="44100" SampleStart="864" SampleStartMod="5000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_C4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.91478" MonolithOffset="671744"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="576"/>
+  <sample Root="51" LoKey="50" HiKey="51" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_D#2_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="2.57549" Normalized="1" MonolithOffset="704512"
+          MonolithLength="36864" SampleRate="44100" SampleStart="231" SampleStartMod="5000"/>
+  <sample Root="51" LoKey="50" HiKey="51" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_D#2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.6645" MonolithOffset="741376"
+          MonolithLength="36864" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="92"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_D1_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="4.18707" Normalized="1" MonolithOffset="778240"
+          MonolithLength="32768" SampleRate="44100" SampleStart="987" SampleStartMod="5000"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_D1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.68552" MonolithOffset="811008"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="493"/>
+  <sample Root="52" LoKey="51" HiKey="53" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E2_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="4.95959" Normalized="1" MonolithOffset="843776"
+          MonolithLength="36864" SampleRate="44100" SampleStart="1204"
+          SampleStartMod="5000"/>
+  <sample Root="52" LoKey="51" HiKey="53" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.93123" MonolithOffset="880640"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="823"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E2_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.16997" Normalized="1" MonolithOffset="913408"
+          MonolithLength="36864" SampleRate="44100" SampleStart="740" SampleStartMod="5000"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.1891" MonolithOffset="950272"
+          MonolithLength="36864" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="416"/>
+  <sample Root="64" LoKey="62" HiKey="64" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E3_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="5.049" Normalized="1" MonolithOffset="987136"
+          MonolithLength="32768" SampleRate="44100" SampleStart="2017"
+          SampleStartMod="5000"/>
+  <sample Root="64" LoKey="62" HiKey="64" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.47594" MonolithOffset="1019904"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="1234"/>
+  <sample Root="64" LoKey="62" HiKey="64" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E3_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.92009" Normalized="1" MonolithOffset="1052672"
+          MonolithLength="32768" SampleRate="44100" SampleStart="864" SampleStartMod="5000"/>
+  <sample Root="64" LoKey="62" HiKey="64" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_E3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.96467" MonolithOffset="1085440"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="535"/>
+  <sample Root="41" LoKey="40" HiKey="42" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_F1_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="4.47345" Normalized="1" MonolithOffset="1118208"
+          MonolithLength="32768" SampleRate="44100" SampleStart="576" SampleStartMod="5000"/>
+  <sample Root="41" LoKey="40" HiKey="42" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_F1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.81104" MonolithOffset="1150976"
+          MonolithLength="28672" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="936"/>
+  <sample Root="41" LoKey="40" HiKey="42" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_F1_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="2.81706" Normalized="1" MonolithOffset="1179648"
+          MonolithLength="36864" SampleRate="44100" SampleStart="602" SampleStartMod="5000"/>
+  <sample Root="41" LoKey="40" HiKey="42" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_F1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.79853" MonolithOffset="1216512"
+          MonolithLength="36864" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="416"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G2_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="5.11042" Normalized="1" MonolithOffset="1253376"
+          MonolithLength="28672" SampleRate="44100" SampleStart="792" SampleStartMod="5000"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.60232" MonolithOffset="1282048"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="1152"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G2_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="4.47711" Normalized="1" MonolithOffset="1314816"
+          MonolithLength="36864" SampleRate="44100" SampleStart="602" SampleStartMod="5000"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.13894" MonolithOffset="1351680"
+          MonolithLength="36864" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="185"/>
+  <sample Root="67" LoKey="65" HiKey="68" LoVel="0" HiVel="63" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G3_v1_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.7283" Normalized="1" MonolithOffset="1388544"
+          MonolithLength="32768" SampleRate="44100" SampleStart="1975"
+          SampleStartMod="5000"/>
+  <sample Root="67" LoKey="65" HiKey="68" LoVel="0" HiVel="63" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.8596" MonolithOffset="1421312"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="1893"/>
+  <sample Root="67" LoKey="65" HiKey="68" LoVel="64" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G3_v2_rr1.wav"
+          Duplicate="0" NormalizedPeak="2.8681" Normalized="1" MonolithOffset="1454080"
+          MonolithLength="36864" SampleRate="44100" SampleStart="2084"
+          SampleStartMod="5000"/>
+  <sample Root="67" LoKey="65" HiKey="68" LoVel="64" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Bassoon/stac/PSBassoon_G3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.5632" MonolithOffset="1490944"
+          MonolithLength="32768" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="987"/>
+</samplemap>

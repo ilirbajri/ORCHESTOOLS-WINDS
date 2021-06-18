@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="FLUTE EXPRESSIVE" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="67" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_A3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.383" LoopEnabled="1"
+          LoopEnd="318150" LoopStart="177280" LoopXFade="15000" MonolithOffset="0"
+          MonolithLength="475136" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="1572"/>
+  <sample Root="81" LoKey="79" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_A4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.19533" LoopEnabled="1"
+          LoopEnd="290512" LoopStart="177851" LoopXFade="15000" MonolithOffset="475136"
+          MonolithLength="503808" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="2750"/>
+  <sample Root="60" LoKey="0" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_C3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="57.908" LoopEnabled="1"
+          LoopEnd="344557" LoopStart="158385" LoopXFade="15000" MonolithOffset="978944"
+          MonolithLength="442368" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="4171"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_C4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1272" LoopEnabled="1"
+          LoopEnd="331961" LoopStart="156759" LoopXFade="15000" MonolithOffset="1421312"
+          MonolithLength="524288" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="3643"/>
+  <sample Root="84" LoKey="83" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_C5_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.66106" LoopEnabled="1"
+          LoopEnd="299018" LoopStart="220082" LoopXFade="15000" MonolithOffset="1945600"
+          MonolithLength="532480" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="2202"/>
+  <sample Root="96" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_C6_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.74972" LoopEnabled="1"
+          LoopEnd="151670" LoopStart="49553" LoopXFade="15000" MonolithOffset="2478080"
+          MonolithLength="184320" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="1067"/>
+  <sample Root="64" LoKey="62" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_E3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.3267" LoopEnabled="1"
+          LoopEnd="194292" LoopStart="80134" LoopXFade="15000" MonolithOffset="2662400"
+          MonolithLength="356352" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="1415"/>
+  <sample Root="76" LoKey="74" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_E4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.80221" LoopEnabled="1"
+          LoopEnd="271416" LoopStart="156656" LoopXFade="15000" MonolithOffset="3018752"
+          MonolithLength="483328" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="2079"/>
+  <sample Root="88" LoKey="86" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute/expvib/LDFlute_expvib_E5_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.38774" LoopEnabled="1"
+          LoopEnd="269255" LoopStart="230538" LoopXFade="15000" MonolithOffset="3502080"
+          MonolithLength="466944" SampleRate="44100" SampleStartMod="5000"
+          SampleStart="2781"/>
+</samplemap>

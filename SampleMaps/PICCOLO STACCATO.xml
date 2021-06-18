@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PICCOLO STACCATO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="70" LoKey="0" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Stac/piccolo_A#4_staccato1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="9.35266"
+          MonolithOffset="0" MonolithLength="20480" SampleRate="44100"
+          SampleStart="771"/>
+  <sample Root="82" LoKey="81" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Stac/piccolo_A#5_staccato1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="3.19816"
+          MonolithOffset="20480" MonolithLength="20480" SampleRate="44100"
+          SampleStart="308"/>
+  <sample Root="94" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Stac/piccolo_A#6_staccato1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="1.10059"
+          MonolithOffset="40960" MonolithLength="24576" SampleRate="44100"
+          SampleStart="154"/>
+  <sample Root="79" LoKey="75" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Stac/piccolo_G5_staccato1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="6.5727"
+          MonolithOffset="65536" MonolithLength="20480" SampleRate="44100"
+          SampleStart="1080"/>
+  <sample Root="91" LoKey="87" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Stac/piccolo_G6_staccato1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="3.92885"
+          MonolithOffset="86016" MonolithLength="20480" SampleRate="44100"
+          SampleStart="334"/>
+</samplemap>

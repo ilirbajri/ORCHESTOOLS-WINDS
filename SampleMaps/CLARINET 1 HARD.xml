@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CLARINET 1 HARD" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_A#2_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.27047" Volume="2"
+          LoopEnd="350000" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="1630" LowerVelocityXFade="0" MonolithOffset="0"
+          MonolithLength="585728" SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_A#3_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.52799" Volume="2"
+          LoopEnd="350000" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="4023" LowerVelocityXFade="0" MonolithOffset="585728"
+          MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_A#4_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.98347" Volume="2"
+          LoopEnd="331691" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="1316" LowerVelocityXFade="0" MonolithOffset="1101824"
+          MonolithLength="475136" SampleRate="44100"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_D2_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.40549" Volume="2"
+          LoopEnd="345415" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="3085" LowerVelocityXFade="0" MonolithOffset="1576960"
+          MonolithLength="348160" SampleRate="44100"/>
+  <sample Root="74" LoKey="71" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_D4_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.83117" Volume="2"
+          LoopEnd="350000" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="3204" LowerVelocityXFade="0" MonolithOffset="2392064"
+          MonolithLength="524288" SampleRate="44100"/>
+  <sample Root="86" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_D5_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.83698" Volume="2"
+          LoopEnd="286288" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="1779" LowerVelocityXFade="0" MonolithOffset="2916352"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_F2_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.90947" Volume="2"
+          LoopEnd="350000" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="1951" LowerVelocityXFade="0" MonolithOffset="3317760"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="65" LoKey="63" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_F3_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.66558" Volume="2"
+          LoopEnd="350000" LoopStart="100000" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="2433" LowerVelocityXFade="0" MonolithOffset="3756032"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Clarinet/susLong/DCClar_susLong_F4_v3_rr1_sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.66123" Volume="2"
+          LoopEnd="399555" LoopStart="169214" LoopXFade="15000" SampleStartMod="90000"
+          LoopEnabled="1" SampleStart="2981" LowerVelocityXFade="0" MonolithOffset="4194304"
+          MonolithLength="593920" SampleRate="44100"/>
+</samplemap>

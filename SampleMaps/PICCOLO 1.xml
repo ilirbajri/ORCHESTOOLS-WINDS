@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PICCOLO 1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="72" LoKey="69" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_C5_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.80015" SampleStartMod="60000"
+          LoopEnabled="1" LoopEnd="280000" LoopStart="100000" LoopXFade="15000"
+          MonolithOffset="0" MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="84" LoKey="81" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_C6_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.51907" SampleStartMod="60000"
+          LoopEnabled="1" LoopEnd="280000" LoopStart="100000" LoopXFade="15000"
+          MonolithOffset="372736" MonolithLength="552960" SampleRate="44100"
+          Pan="-10"/>
+  <sample Root="67" LoKey="0" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_G4_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.53" SampleStartMod="60000"
+          LoopEnabled="1" LoopEnd="280000" LoopStart="100000" LoopXFade="15000"
+          MonolithOffset="925696" MonolithLength="327680" SampleRate="44100"
+          Volume="-5"/>
+  <sample Root="79" LoKey="77" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_G5_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.85891" SampleStartMod="60000"
+          LoopEnabled="1" LoopEnd="280000" LoopStart="100000" LoopXFade="15000"
+          MonolithOffset="1253376" MonolithLength="376832" SampleRate="44100"
+          Pan="10"/>
+  <sample Root="91" LoKey="89" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Piccolo/Sus/piccolo_G6_sustain1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.86977" SampleStartMod="60000"
+          LoopEnabled="1" LoopEnd="280000" LoopStart="100000" LoopXFade="15000"
+          MonolithOffset="1630208" MonolithLength="360448" SampleRate="44100"/>
+</samplemap>

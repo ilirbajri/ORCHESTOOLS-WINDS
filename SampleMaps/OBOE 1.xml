@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="OBOE 1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="0" HiKey="58" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_A#2_v1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.3802" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="0" MonolithLength="1196032"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="0" HiKey="58" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_A#2_v3_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.83235" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="1196032" MonolithLength="598016"
+          SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="70" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_A#3_v1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.5065" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="1794048" MonolithLength="475136"
+          SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="70" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_A#3_v3_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.92263" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="2269184" MonolithLength="450560"
+          SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="82" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_A#4_v1_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.7119" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="2719744" MonolithLength="466944"
+          SampleRate="44100"/>
+  <sample Root="82" LoKey="79" HiKey="82" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_A#4_v3_Main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.7196" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="3186688" MonolithLength="389120"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="62" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_D3_v1_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="12.825" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="3575808" MonolithLength="495616"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="62" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_D3_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="10.7896" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="4071424" MonolithLength="557056"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="71" HiKey="74" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_D4_v1_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="25.7206" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="4628480" MonolithLength="438272"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="71" HiKey="74" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_D4_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="14.0635" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="5066752" MonolithLength="425984"
+          SampleRate="44100"/>
+  <sample Root="86" LoKey="83" HiKey="86" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_D5_v1_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="13.6249" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="5492736" MonolithLength="393216"
+          SampleRate="44100"/>
+  <sample Root="86" LoKey="83" HiKey="86" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_D5_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="6.23084" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="5885952" MonolithLength="413696"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="63" HiKey="66" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_F3_v1_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="12.0205" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="6299648" MonolithLength="389120"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="63" HiKey="66" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_F3_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="8.77793" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="6688768" MonolithLength="430080"
+          SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="78" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_F4_v1_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="10.8467" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="7118848" MonolithLength="417792"
+          SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="78" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_F4_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="6.76605" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="7536640" MonolithLength="364544"
+          SampleRate="44100"/>
+  <sample Root="89" LoKey="87" HiKey="127" LoVel="0" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_F5_v1_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="14.3279" UpperVelocityXFade="80"
+          LoopEnabled="0" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="7901184" MonolithLength="413696"
+          SampleRate="44100"/>
+  <sample Root="89" LoKey="87" HiKey="127" LoVel="20" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Oboe/Sus/Oboe_Sus_F5_v3_Main.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="12.9364" LowerVelocityXFade="80"
+          LoopEnabled="1" LoopEnd="300000" LoopStart="150000" LoopXFade="15000"
+          SampleStartMod="40000" MonolithOffset="8314880" MonolithLength="434176"
+          SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PIPE ORGAN PEDAL LOUD" RRGroupAmount="1" MicPositions=";"
+           SaveMode="2">
+  <sample Root="45" LoKey="0" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_A1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.84716" SampleStartMod="40000"
+          LoopEnd="350000" LoopStart="150000" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="0" MonolithLength="565248" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_A2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.89087" SampleStartMod="40000"
+          LoopEnd="362351" LoopStart="150000" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="565248" MonolithLength="561152" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_C2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.49566" SampleStartMod="40000"
+          LoopEnd="350000" LoopStart="150000" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="1736704" MonolithLength="561152" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_C3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.04044" SampleStartMod="40000"
+          LoopEnd="350000" LoopStart="150000" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="2297856" MonolithLength="561152" SampleRate="44100"/>
+  <sample Root="51" LoKey="50" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_D#2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.39113" SampleStartMod="40000"
+          LoopEnd="350000" LoopStart="150000" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="3428352" MonolithLength="561152" SampleRate="44100"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_D#3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.78558" SampleStartMod="40000"
+          LoopEnd="350000" LoopStart="150000" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="3989504" MonolithLength="548864" SampleRate="44100"/>
+  <sample Root="54" LoKey="53" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_F#2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.07623" SampleStartMod="40000"
+          LoopEnd="350000" LoopStart="150000" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="5103616" MonolithLength="569344" SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Edge-blown Aerophones/Pipe Organ/Loud Pedal/Rode_Pedal_F#3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.35669" SampleStartMod="40000"
+          LoopEnd="371516" LoopStart="160027" LoopXFade="15000" LoopEnabled="1"
+          MonolithOffset="5672960" MonolithLength="561152" SampleRate="44100"/>
+</samplemap>
